@@ -1,0 +1,29 @@
+body
+{
+	font-family: verdana, sans-serif;
+	font-size: 15px;
+	margin:0px;
+	padding: 0px;
+	color: blue;
+}
+h1
+{
+	color: blue;
+	font-size: 34px;
+	background: black;
+	text-align: center;
+}
+h2
+{
+	color: green;
+	font-size: 21px;
+	font-style:oblique;
+
+}
+ul
+{
+	color:red;
+	font-style: italic;
+	text-decoration: underline;
+
+}
